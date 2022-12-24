@@ -61,7 +61,7 @@ exports.describe = describe;
 exports.it = it;
 exports.expect = expect;
 
-// Array Methods
+// Multiple Array Methods
 
 Array.prototype.myMap = function (callback) {
   const output = [];
